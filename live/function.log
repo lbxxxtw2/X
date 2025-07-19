@@ -1,6 +1,6 @@
-2025-07-18 10:49:39,807 - ERROR - url: http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt 失败❌, Error: 404, message='Not Found', url='http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt'
-2025-07-18 10:49:39,947 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
-2025-07-18 10:49:42,849 - ERROR - url: https://live.catvod.com/mq.php?catvod.com=m3u 失败❌, Error: 403, message='Forbidden', url='https://www.catvod.com/'
-2025-07-18 10:50:09,477 - ERROR - url: https://115.190.105.236/vip/qwt.m3u 失败❌, Error: Connection timeout to host https://115.190.105.236/vip/qwt.m3u
-2025-07-18 10:50:09,477 - ERROR - url: https://115.190.105.236/vip/vip.m3u 失败❌, Error: Connection timeout to host https://115.190.105.236/vip/vip.m3u
-2025-07-18 10:50:09,477 - ERROR - url: https://since1986.fun/epg/mix.m3u 失败❌, Error: Connection timeout to host https://since1986.fun/epg/mix.m3u
+2025-07-19 10:32:56,302 - ERROR - url: http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt 失败❌, Error: 404, message='Not Found', url='http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt'
+2025-07-19 10:32:56,371 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
+2025-07-19 10:33:01,372 - ERROR - url: https://live.catvod.com/mq.php?catvod.com=m3u 失败❌, Error: 403, message='Forbidden', url='https://www.catvod.com/'
+2025-07-19 10:33:26,191 - ERROR - url: https://115.190.105.236/vip/qwt.m3u 失败❌, Error: Connection timeout to host https://115.190.105.236/vip/qwt.m3u
+2025-07-19 10:33:26,191 - ERROR - url: https://115.190.105.236/vip/vip.m3u 失败❌, Error: Connection timeout to host https://115.190.105.236/vip/vip.m3u
+2025-07-19 10:33:26,191 - ERROR - url: https://since1986.fun/epg/mix.m3u 失败❌, Error: Connection timeout to host https://since1986.fun/epg/mix.m3u
